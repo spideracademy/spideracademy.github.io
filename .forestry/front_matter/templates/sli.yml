@@ -14,5 +14,14 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: lsblk
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: lsblk
 pages:
 - content/the-slime-life.md
