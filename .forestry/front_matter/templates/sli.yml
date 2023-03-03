@@ -1,0 +1,16 @@
+---
+label: sli
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: layout
+  label: layout
