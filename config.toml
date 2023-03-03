@@ -1,5 +1,5 @@
 # default config
-baseurl = ""
+baseurl = "https://spideracademy.github.io"
 languageCode = "en-us"
 title = "Spider Academy"
 theme = "parsa-hugo"
